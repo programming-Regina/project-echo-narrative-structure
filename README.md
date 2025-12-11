@@ -8,6 +8,7 @@
 Este repositorio contiene el código fuente (texto) y la estructura de "El Eco del Viento", una novela corta de terror psicológico diseñada para explorar la carga cognitiva, el ritmo de la información y la percepción alterada.
 ## 🎯 Objetivo del Proyecto
 Demostrar cómo los principios de Data Storytelling y Diseño de Experiencia (UX) se aplican a la ficción literaria para manipular la atención del lector y construir tensión sistémica.
+
 ---
 <p align="center">
   <a href="El%20eco%20del%20viento%20-%20Regina%20N%20Molares.pdf" target="_blank">
@@ -15,6 +16,7 @@ Demostrar cómo los principios de Data Storytelling y Diseño de Experiencia (UX
   </a>
 </p>
 ---
+
 ## 👇🏻👇🏻👇🏻--- SPOILER ALERT --- 👇🏻👇🏻👇🏻
 ## 🧠 Conceptos Técnicos Aplicados
 1. El Narrador No Confiable como "Missing Data" La protagonista experimenta lagunas de memoria y distorsiones temporales. Desde la perspectiva de datos, la novela simula un dataset incompleto donde el lector (el analista) debe inferir la causalidad basándose en correlaciones rotas y patrones de comportamiento del entorno.
