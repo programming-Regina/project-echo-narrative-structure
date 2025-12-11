@@ -1,7 +1,9 @@
 # 🌪️ Project Echo: Arquitectura Narrativa & Psicología del Entorno
 > *"Todo sistema reconoce cuando un foco se desplaza." — Umberto, Agente de IA.*
 > 
-![Portada El Eco del Viento](el%20eco%20del%20viento%20portada.png)
+<p align="center">
+  <img src="el%20eco%20del%20viento%20portada.png" width="300" alt="Portada El Eco del Viento">
+</p>
 
 Este repositorio contiene el código fuente (texto) y la estructura de "El Eco del Viento", una novela corta de terror psicológico diseñada para explorar la carga cognitiva, el ritmo de la información y la percepción alterada.
 ## 🎯 Objetivo del Proyecto
